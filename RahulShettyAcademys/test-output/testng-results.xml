@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-04T22:46:52 IST" name="Default suite" finished-at="2023-07-04T22:47:03 IST" duration-ms="10121">
+    <groups>
+    </groups>
+    <test started-at="2023-07-04T22:46:52 IST" name="Default test" finished-at="2023-07-04T22:47:03 IST" duration-ms="10121">
+      <class name="LocatorsAutomationPracticePage">
+        <test-method is-config="true" signature="BrowserExtension()[pri:0, instance:LocatorsAutomationPracticePage@74e52303]" started-at="2023-07-04T22:46:52 IST" name="BrowserExtension" finished-at="2023-07-04T22:46:58 IST" duration-ms="5906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserExtension -->
+        <test-method signature="pageExecution()[pri:1, instance:LocatorsAutomationPracticePage@74e52303]" started-at="2023-07-04T22:46:58 IST" name="pageExecution" finished-at="2023-07-04T22:47:03 IST" duration-ms="4153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageExecution -->
+      </class> <!-- LocatorsAutomationPracticePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
